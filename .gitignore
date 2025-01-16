@@ -6,4 +6,8 @@ __pycache__/
 /report/final_research_paper.out
 /report/final_research_paper.synctex.gz
 /report/final_research_paper.toc
+/report/final_research_paper-blx.bib
+/report/final_research_paper.bbl
+/report/final_research_paper.blg
+/report/final_research_paper.run.xml
 project.ipynb
